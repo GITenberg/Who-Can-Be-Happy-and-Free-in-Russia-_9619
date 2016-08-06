@@ -1,0 +1,33 @@
+_repo: Who-Can-Be-Happy-and-Free-in-Russia-_9619
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Soskice, Juliet M.
+    gutenberg_agent_id: '3103'
+    url: http://www.gutenberg.org/2009/agents/3103
+creator:
+  author:
+    agent_name: Nekrasov, Nikolai Alekseevich
+    aliases:
+    - Nekrassov, Nicholas
+    - Некрасов, Николай Алексеевич
+    birthdate: 1821
+    deathdate: 1877
+    gutenberg_agent_id: '3102'
+    url: http://www.gutenberg.org/2009/agents/3102
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Alekseevich_Nekrasov
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian literature -- 20th century -- Translations into English'
+- !lcc 'PG'
+- GITenberg
+title: Who Can Be Happy and Free in Russia?
+url: http://www.gutenberg.org/ebooks/9619
