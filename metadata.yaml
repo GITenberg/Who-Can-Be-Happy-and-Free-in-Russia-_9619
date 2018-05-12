@@ -1,10 +1,13 @@
 _repo: Who-Can-Be-Happy-and-Free-in-Russia-_9619
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Soskice, Juliet M.
     gutenberg_agent_id: '3103'
     url: http://www.gutenberg.org/2009/agents/3103
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nekrasov, Nikolai Alekseevich
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3102
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Alekseevich_Nekrasov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9619#Who-Can-Be-Happy-and-Free-in-Russia-
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
